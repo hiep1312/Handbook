@@ -34,10 +34,10 @@ Cú pháp cơ bản:
 
 | Thuộc tính                          | Trạng thái  | Mô tả                                          |
 | ----------------------------------- | ----------- | ---------------------------------------------- |
-| [`href`](#href)                     | ✅ Standard | Xác định địa chỉ hoặc hành động của liên kết   |
+| [`href`](#href)                     | ✅ Standard | Xác định địa chỉ liên kết                      |
 | [`download`](#download)             | ✅ Standard | Yêu cầu tải tài nguyên thay vì mở              |
 | [`target`](#target)                 | ✅ Standard | Xác định nơi mở liên kết                       |
-| [`referrerpolicy`](#referrerpolicy) | ✅ Standard | Kiểm soát thông tin trang trước đó được gửi đi |
+| [`referrerpolicy`](#referrerpolicy) | ✅ Standard | Kiểm soát thông tin trang hiện tại được gửi đi |
 
 ---
 
