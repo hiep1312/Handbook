@@ -140,7 +140,7 @@ Ví dụ:
 
 Kiểm soát **thông tin URL trang hiện tại** (referrer) được gửi kèm khi click link.
 
-> [!NOTE] \
+> [!NOTE]
 > Rất quan trọng trong **bảo mật & quyền riêng tư**.
 
 #### Các giá trị
